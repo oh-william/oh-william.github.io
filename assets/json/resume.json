@@ -19,6 +19,18 @@
       }
     ]
   },
+    "education": [
+    {
+      "institution": "Princeton University",
+      "location": "Princeton, NJ",
+      "url": "https://orfe.princeton.edu/",
+      "area": "Operations Research and Financial Engineering",
+      "studyType": "BSE",
+      "startDate": "2023-09",
+      "endDate": "2027-05",
+      "GPA": "3.984/4"
+    }
+  ],
   "work": [
     {
       "name": "JPMorganChase",
@@ -53,18 +65,6 @@
       "startDate": "2024-01",
       "endDate": "2024-09",
       "summary": "Volunteer in the Princeton Medical Center Emergency Department"
-    }
-  ],
-  "education": [
-    {
-      "institution": "Princeton University",
-      "location": "Princeton, NJ",
-      "url": "https://orfe.princeton.edu/",
-      "area": "Operations Research and Financial Engineering",
-      "studyType": "BSE",
-      "startDate": "2023-09",
-      "endDate": "2027-05",
-      "GPA": "3.984/4"
     }
   ],
   "awards": [
