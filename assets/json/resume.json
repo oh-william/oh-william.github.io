@@ -31,6 +31,14 @@
       "GPA": "3.984/4"
     }
   ],
+    "awards": [
+    {
+      "title": "Shapiro Prize for Academic Excellence",
+      "date": "2024",
+      "awarder": "Princeton University ",
+      "summary": "Top 3% of academic performance in class"
+    }
+  ],
   "work": [
     {
       "name": "JPMorganChase",
@@ -39,6 +47,14 @@
       "startDate": "2025-06",
       "endDate": "2025-08",
       "summary": "Building data infrastructure for ML Ops"
+    },
+        {
+      "name": "Niehaus Center for Globalization and Governance",
+      "position": "Undergraduate Researcher",
+      "url": "https://niehaus.princeton.edu/",
+      "startDate": "2024-09",
+      "endDate": "2025-05",
+      "summary": "Built more efficient querying tools for economic research"
     },
     {
       "name": "Ludwig Cancer Institute",
@@ -49,12 +65,20 @@
       "summary": "Uncovering links between diet and cancer metastasis @ the Tissue Morphodynamics Lab"
     },
     {
-      "name": "Niehaus Center for Globalization and Governance",
-      "position": "Undergraduate Researcher",
-      "url": "https://niehaus.princeton.edu/",
-      "startDate": "2024-09",
-      "endDate": "2025-05",
-      "summary": "Built more efficient querying tools for economic research"
+      "name": "FOXG1 Center for Research @ University at Buffalo",
+      "position": "Research Intern",
+      "url": "https://foxg1center.org/",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "Investigated the role of FOXG1 in neurodevelopmental disorders"
+    },
+    {
+      "name": "Photodynamic Therapy Center @ Roswell Park Cancer Institute",
+      "position": "Research Intern",
+      "url": "https://www.roswellpark.org/cancer-care/treatments/photodynamic-therapy",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": "Studied the effects of photodynamic therapy on cancer cells"
     }
   ],
   "volunteer": [
@@ -65,14 +89,6 @@
       "startDate": "2024-01",
       "endDate": "2024-09",
       "summary": "Volunteer in the Princeton Medical Center Emergency Department"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Shapiro Prize for Academic Excellence",
-      "date": "2024",
-      "awarder": "Princeton University ",
-      "summary": "Top 3% of academic performance in class"
     }
   ]
 }

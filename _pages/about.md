@@ -6,8 +6,8 @@ subtitle: Applied Mathematics & Computer Science @ Princeton University
 
 profile:
   align: right
-  image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image: prof.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Princeton, NJ</p>
 
