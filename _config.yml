@@ -46,8 +46,11 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
+news_in_search: false
+projects_in_search: false
+books_in_search: false
 
 # Dimensions
 max_width: 930px
