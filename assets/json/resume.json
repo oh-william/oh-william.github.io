@@ -25,7 +25,8 @@
       "location": "Princeton, NJ",
       "url": "https://orfe.princeton.edu/",
       "area": "Operations Research and Financial Engineering",
-      "studyType": "BSE",
+      "minors": ["Computer Science", "Mathematics"],
+      "studyType": "Bachelor of Science in Engineering",
       "startDate": "2023-09",
       "endDate": "2027-05",
       "GPA": "3.984/4"
@@ -39,7 +40,7 @@
       "summary": "Top 3% of academic performance in class"
     }
   ],
-  "work": [
+  "industry_experience": [
     {
       "name": "JPMorganChase",
       "position": "Data & Analytics Research Intern",
@@ -47,8 +48,10 @@
       "startDate": "2025-06",
       "endDate": "2025-08",
       "summary": "Building data infrastructure for ML Ops"
-    },
-        {
+    }
+  ],
+  "research_experience": [
+    {
       "name": "Niehaus Center for Globalization and Governance",
       "position": "Undergraduate Researcher",
       "url": "https://niehaus.princeton.edu/",
@@ -62,7 +65,7 @@
       "url": "https://ludwigcancer.princeton.edu/news/2024/ludwig-princeton-summer-internship-kicks",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "Uncovering links between diet and cancer metastasis @ the Tissue Morphodynamics Lab"
+      "summary": "Uncovered links between diet and cancer metastasis @ the Tissue Morphodynamics Lab"
     },
     {
       "name": "FOXG1 Center for Research @ University at Buffalo",

@@ -40,6 +40,17 @@
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
+          {% if content.minors and content.minors.size > 0 %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              <strong>Minor{% if content.minors.size > 1 %}s{% endif %}:</strong> 
+              {% for minor in content.minors %}
+                {{ minor }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </h6>
+          {% endif %}
+          {% if content.GPA and site.show_gpa != false %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>GPA:</strong> {{ content.GPA }}</h6>
+          {% endif %}
           <ul class="items">
             {% for item in content.courses %}
               <li>

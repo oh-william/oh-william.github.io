@@ -52,6 +52,9 @@ news_in_search: false
 projects_in_search: false
 books_in_search: false
 
+# CV settings
+show_gpa: true # set to false to hide GPA from CV
+
 # Dimensions
 max_width: 930px
 
@@ -635,7 +638,8 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
+  - industry_experience
+  - research_experience
   - education
   - publications
   - projects

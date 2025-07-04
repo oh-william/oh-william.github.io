@@ -7,7 +7,7 @@ subtitle: Applied Mathematics & Computer Science @ Princeton University
 profile:
   align: right
   image: prof.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Princeton, NJ</p>
 
@@ -29,6 +29,6 @@ I am a junior at [Princeton University](https://orfe.princeton.edu/) studying Ap
 
 I am currently working as a Data & Analytics Research Intern at [JPMorganChase](https://www.jpmorganchase.com/), where I am building data infrastructure for ML Ops.
 
-I have previosly worked in the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) under Professor [Duy Trinh](https://duydtrinh.com/), optimizing dataset querying for economic research. Additionally, I was a research intern at the [Ludwig Cancer Institute](https://ludwigcancer.princeton.edu/), searching for links between diet and breast cancer cell metastasis in the [Tissue Morphodynamics Lab](https://cmngroup.princeton.edu/) under Professor [Celeste Nelson](https://cmngroup.princeton.edu/Celeste.htm).
+I have previously worked in the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) under Professor [Duy Trinh](https://duydtrinh.com/), optimizing dataset querying for economic research. Additionally, I was a research intern at the [Ludwig Cancer Institute](https://ludwigcancer.princeton.edu/), searching for links between diet and breast cancer cell metastasis in the [Tissue Morphodynamics Lab](https://cmngroup.princeton.edu/) under Professor [Celeste Nelson](https://cmngroup.princeton.edu/Celeste.htm).
 
 You can reach me at `williamoh [at] princeton [dot] edu`.
