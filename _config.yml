@@ -53,7 +53,7 @@ projects_in_search: false
 books_in_search: false
 
 # CV settings
-show_gpa: true # set to false to hide GPA from CV
+show_gpa: false # set to false to hide GPA from CV
 
 # Dimensions
 max_width: 930px
